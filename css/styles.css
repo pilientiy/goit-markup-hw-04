@@ -148,7 +148,7 @@ li {
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url(/images/people-office.png);
+    url(../images/people-office.png);
   background-repeat: no-repeat;
   background-size: cover;
   padding: 188px 0;
@@ -321,11 +321,11 @@ li {
   margin-top: 8px;
 }
 
-.sm-point:hover > .icon-link-ts {
+.icon-link-ts:hover {
   background-color: #404bbf;
 }
 
-.sm-point:focus > .icon-link-ts {
+.icon-link-ts:focus {
   background-color: #404bbf;
 }
 
